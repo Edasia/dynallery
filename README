@@ -8,12 +8,11 @@ You can see how this work, please enjoy.
 If you want contribute in this project, let us know you fork this project first. 
 Set the comfort chair and please bring your fresh algorithm idea into Dynallery project. 
 
-We combine Dynallery Project with jQuery jPages v0.7 <a href="http://luis-almeida.github.com/jPages" target="_Blank"> http://luis-almeida.github.com/jPages</a>
+We combine Dynallery Project with jQuery jPages v0.7 http://luis-almeida.github.com/jPages
  
  /**
  * jQuery jPages v0.7
  * Client side pagination with jQuery
- * http://luis-almeida.github.com/jPages
  *
  * Licensed under the MIT license.
  * Copyright 2012 Luís Almeida
