@@ -2,8 +2,20 @@ Dynallery version 0.1
 
 Very, Very, Very Open For Everyone!
 
-We was created the "poor" javascript coding with excellent concept for advance gallery. It's concept like Google Images.
+We was created the "poor" javascript coding but with excellent concept for Advance gallery. It's concept like Google Images.
 You can see how this work, please enjoy. 
 
 If you want contribute in this project, let us know you fork this project first. 
-Set the comfort chair and please bring your idea and fresh algorithm into Dynallery project.  
+Set the comfort chair and please bring your fresh algorithm idea into Dynallery project. 
+
+We combine Dynallery Project with jQuery jPages v0.7 <a href="http://luis-almeida.github.com/jPages" target="_Blank"> http://luis-almeida.github.com/jPages</a>
+ 
+ /**
+ * jQuery jPages v0.7
+ * Client side pagination with jQuery
+ * http://luis-almeida.github.com/jPages
+ *
+ * Licensed under the MIT license.
+ * Copyright 2012 Luís Almeida
+ * https://github.com/luis-almeida
+ */ 
